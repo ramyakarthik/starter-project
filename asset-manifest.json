@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ramyakarthik/starter-project/static/css/main.a617e044.chunk.css",
+    "main.js": "/ramyakarthik/starter-project/static/js/main.040906be.chunk.js",
+    "main.js.map": "/ramyakarthik/starter-project/static/js/main.040906be.chunk.js.map",
+    "runtime-main.js": "/ramyakarthik/starter-project/static/js/runtime-main.33a68662.js",
+    "runtime-main.js.map": "/ramyakarthik/starter-project/static/js/runtime-main.33a68662.js.map",
+    "static/js/2.6de947b0.chunk.js": "/ramyakarthik/starter-project/static/js/2.6de947b0.chunk.js",
+    "static/js/2.6de947b0.chunk.js.map": "/ramyakarthik/starter-project/static/js/2.6de947b0.chunk.js.map",
+    "static/js/3.f50f1b0c.chunk.js": "/ramyakarthik/starter-project/static/js/3.f50f1b0c.chunk.js",
+    "static/js/3.f50f1b0c.chunk.js.map": "/ramyakarthik/starter-project/static/js/3.f50f1b0c.chunk.js.map",
+    "index.html": "/ramyakarthik/starter-project/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ramyakarthik/starter-project/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6de947b0.chunk.js.LICENSE.txt": "/ramyakarthik/starter-project/static/js/2.6de947b0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ramyakarthik/starter-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33a68662.js",
+    "static/js/2.6de947b0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.040906be.chunk.js"
+  ]
+}
